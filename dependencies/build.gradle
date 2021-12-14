@@ -159,7 +159,7 @@ platform {
     }
 
     feature(id: 'jaxb', name: 'jaxb', version: '2.3.3') {
-        plugin('jakarta.xml.bind:jakarta.xml.bind-api:2.3.3')
+        plugin('jakarta.xml.bind:jakarta.xml.bind-api:3.0.1')
         plugin('com.sun.xml.bind:jaxb-osgi:2.3.3')
     }
 
