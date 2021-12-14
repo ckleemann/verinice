@@ -81,7 +81,7 @@ platform {
 	}
 
 	feature(id: 'com.opencsv', name: 'opencsv', version: '4.1.0') {
-		plugin('com.opencsv:opencsv:4.1') {
+		plugin('com.opencsv:opencsv:4.6') {
 			exclude group: 'commons-logging', module: 'commons-logging'
 		}
 	}
