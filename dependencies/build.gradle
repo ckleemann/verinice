@@ -25,7 +25,7 @@ platform {
     importVersionStrategy = MINIMUM
 		
 	feature(id: 'antlr', name: 'antlr', version: '2.7.7') {
-		plugin('antlr:antlr:2.7.7')
+		plugin('antlr:antlr:20030911')
 	}
 	
 	feature(id: 'net.sf.ehcache', name: 'ehcache', version: '2.10.4') {
