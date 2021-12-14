@@ -54,7 +54,7 @@ platform {
 				instruction 'Eclipse-BuddyPolicy', 'registered'
 			}
 		}
-		plugin('dom4j:dom4j:1.6.1') {
+		plugin('dom4j:dom4j:20040902.021138') {
 			bnd {
 				optionalImport 'com.sun.msv.datatype'
 				optionalImport 'com.sun.msv.datatype.xsd'
