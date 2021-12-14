@@ -29,7 +29,7 @@ platform {
 	}
 	
 	feature(id: 'net.sf.ehcache', name: 'ehcache', version: '2.10.4') {
-		plugin('net.sf.ehcache:ehcache:2.10.4')
+		plugin('net.sf.ehcache:ehcache:2.10.9.2')
 	}
 
 	feature(id: 'org.jgrapht', name: 'jgrapht-core', version: '1.2.0') {
