@@ -70,7 +70,7 @@ platform {
 	}
 	
 	feature(id: 'jfree', name: 'jfreechart-swt', version: '1.0.0') {
-		plugin('jfree:jfreechart-swt:1.0.9') {
+		plugin('jfree:jfreechart-swt:1.0.17') {
 			exclude group: 'org.eclipse.swt', module: 'org.eclipse.swt.cocoa.macosx.x86_64'
 		}
 		plugin('jfree:jfreechart:1.0.13')
