@@ -42,7 +42,7 @@ platform {
 	}
 	
 	feature(id: 'org.hibernate', name: 'hibernate-core', version: '3.6.11') {
-		plugin('org.hibernate:hibernate-core:3.6.10.Final') {
+		plugin('org.hibernate:hibernate-core:5.6.5.Final') {
 			bnd {
 				optionalImport 'net.sf.cglib.beans'
 				optionalImport 'net.sf.cglib.core'
